@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="logo.jpg" width="180" height="180" alt="macOS Tahoe mark">
+</p>
+<h2 align="center">macOS Tahoe desktop for Plasma 6</h2>
+
+<h4 align="center">
+  User-level Plasma / KWin / GTK config only · <b>never touches Plymouth or boot</b><br>
+  Light + Dark · Liquid Glass · SF Pro fonts · macOS top bar &amp; dock
+</h4>
+
+<hr>
+
 # macOS Tahoe Desktop for Plasma 6 (Omarchy)
 
 A faithful, **macOS Tahoe–inspired** desktop for KDE Plasma 6 — macOS-style
